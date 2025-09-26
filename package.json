@@ -1,10 +1,23 @@
 {
   "name": "1inch-backend-test-assignment",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "1inch Backend test assignment",
+  "keywords": [],
   "private": true,
-  "license": "UNLICENSED",
+  "author": {
+    "name": "Aleksandr Ivannikov",
+    "email": "info@ivannikov.pro",
+    "url": "https://ivannikov.pro"
+  },
+  "homepage": "https://github.com/an-ivannikov/1inch-backend-test-assignment#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/an-ivannikov/1inch-backend-test-assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/an-ivannikov/1inch-backend-test-assignment/issues",
+    "email": "info@ivannikov.pro"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
