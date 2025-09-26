@@ -4,6 +4,7 @@
   "description": "1inch Backend test assignment",
   "keywords": [],
   "private": true,
+  "license": "MIT",
   "author": {
     "name": "Aleksandr Ivannikov",
     "email": "info@ivannikov.pro",
